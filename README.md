@@ -5,7 +5,7 @@ Normally data is transmitted using electromagnetic waves but it is not the only 
 
 #### Go to [audiotrans.github.io](https://audiotrans.github.io)
 
-* Go to " Receive " and " Transmitter "  in two devices respectively.
+* Go to "Receive" and "Transmitter"  in two devices respectively.
 
 * Make sure the MIC(Receiving device) and SPEAKER(Transmiting device) is close enough, and there is Minimum background Noise.
 
@@ -17,7 +17,7 @@ Normally data is transmitted using electromagnetic waves but it is not the only 
 
 ## How it works (The Principle)
 
-In the Transmiting end the " Message " is encoded into 7 bit binary form, eg: "S" -> 1010011. 
+In the Transmiting end the "Message" is encoded into 7 bit binary form, eg: "S" -> 1010011. 
 Then, it is Received in the Receiving end and is again decoded into Text form, eg 1010011 -> "S".
 
 ###### So How is it Transmitted?
