@@ -1,5 +1,5 @@
 # Data Transmission using audible sound
-
+Normally data is transmitted using electromagnetic waves but it is not the only way to transmit data wirelessly, but its the best way till now. But in this project we will Transmit and Receive Text Data using Sound within the Audible range. 
 ## How to set up for testing
 
 #### Go to [audiotrans.github.io](https://audiotrans.github.io)
