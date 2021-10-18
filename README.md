@@ -35,4 +35,4 @@ This is slow but, this idea is used in large scale with Electromagnetic waves to
 
 Check out the Source Code above to know how we did it, moreover this is a Open-source project.
 
-A project by *Smitesh Das* & *Soumya Ranjan Das*.
+A project by **Smitesh Das** & **Soumya Ranjan Das**.
