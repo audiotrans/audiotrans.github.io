@@ -15,6 +15,8 @@ Normally data is transmitted using electromagnetic waves but it is not the only 
 
 * Tap "Receive" right after tapping "Transmit", a 250 milliseconds delay is acceptable.
 
+In this type of Transmission, both the transmitter and the receiver should be synchronised. Therefore it is known as Synchronous Data Transmitted.
+
 ## How it works (The Principle)
 
 In the Transmiting end the "Message" is encoded into 7 bit binary form, eg: "S" -> 1010011. 
