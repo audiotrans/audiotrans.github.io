@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+html,body{
+				margin:0;
+				padding:0;
+				}
+.container {
+padding:10px;
+}
+
+.container a{
+				text-decoration:none;
+				color:#000;
+				}
+
+.container div div{
+				font-family: 'Caveat Brush', cursive;
+				font-size:250px;
+				}
+.container div p{
+				font-size:22px;
+			font-family: 'Caveat Brush', cursive;
+				}	
+
+.logo{
+				font-family: 'Caveat Brush', cursive;
+				font-size:80px;
+				color:#24272B;
+				}
+.des{
+				font-family: 'Itim', cursive;
+				font-size:22px;
+				color:#24272B;
+				font-weight:600;
+				}
+.desTwo{
+				font-family: 'Patrick Hand', cursive;
+				font-size:15px;
+				color:#24272B;
+				font-weight:300;
+				}
+.CTAswipe{
+				width: 150px;
+				height:50px;
+  padding: 5px 5px;
+  margin: 5px 0;
+  background:#fff;
+  box-sizing: border-box;
+  border:2px solid #24282B;
+  border-bottom:4px solid #24282B;
+  border-radius:25px;
+  /*-webkit-transition: 0.5s;
+  transition: 0.5s;*/
+  outline: none;
+  color:#24282B;
+  /*font-family: 'Patrick Hand', cursive;*/
+		font-family: 'Caveat Brush', cursive;
+		font-size:20px;
+  /*border-radius:8px;*/
+				}
+.credit {
+				font-family:Poppins;
+     font-size:11px;
+				font-weight:300;
+				color:#24282B;
+}
+.credit-l{
+				font-family:Poppins;
+     font-size:18px;
+				font-weight:300;
+				color:#24282B;
+}
+
+.credit a{
+				text-decoration:underline;
+}
